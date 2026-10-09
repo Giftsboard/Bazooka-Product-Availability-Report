@@ -1,3 +1,5 @@
+
+
 [Availability Report.pdf](https://github.com/user-attachments/files/33228772/Availability.Report.pdf)
 # 🛒 Product Availability Report | Power BI
 
