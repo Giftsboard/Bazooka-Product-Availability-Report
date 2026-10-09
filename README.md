@@ -1,6 +1,3 @@
-<img width="1225" height="756" alt="Availability Report" src="https://github.com/user-attachments/assets/6120167f-d8ce-441d-93fc-ee4fc029dfba" />
-
-
 [Availability Report.pdf](https://github.com/user-attachments/files/33228772/Availability.Report.pdf)
 # 🛒 Product Availability Report | Power BI
 
@@ -8,7 +5,7 @@
 
 > A Power BI report that analyses store calls, product availability and sales outcomes from a field sales drive, built with data modelling and report design best practices.
 
-![Report Preview](images/report_visuals_page.png)
+![Report Preview](images/<img width="1225" height="756" alt="Availability Report" src="https://github.com/user-attachments/assets/6120167f-d8ce-441d-93fc-ee4fc029dfba" />)
 <!-- Save a screenshot of the Visuals page at images/report_visuals_page.png -->
 
 ---
