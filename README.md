@@ -29,7 +29,6 @@
 12. [Lessons Learned](#-lessons-learned)
 13. [Repository Structure](#-repository-structure)
 14. [How to Use This Project](#-how-to-use-this-project)
-15. [About Me](#-about-me)
 
 ---
 
