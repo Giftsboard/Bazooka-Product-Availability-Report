@@ -1,3 +1,4 @@
+<img width="1225" height="756" alt="Availability Report" src="https://github.com/user-attachments/assets/6120167f-d8ce-441d-93fc-ee4fc029dfba" />
 
 
 [Availability Report.pdf](https://github.com/user-attachments/files/33228772/Availability.Report.pdf)
