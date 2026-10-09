@@ -73,7 +73,7 @@ The business needed to understand:
 
 | Detail | Description |
 |---|---|
-| **Source** | Field Sales Solutions assessment data (`[add link or note if shareable]`) |
+| **Source** | Field Sales Solutions assessment data |
 | **Campaign** | Bazooka Sales Drive 2023, Phase 3 |
 | **Data refresh date** | 25/01/2024 00:05:13 |
 | **Key fields** | Product Name, Town, Postcode, Store Name, Retail Group, Availability Status, Availability Count, Total Calls, Total Cases Sold, Reason No Sale Made, Reason Not Available On Exit |
@@ -238,14 +238,6 @@ The business needed to understand:
 
 ---
 
-## 👤 About Me
-
-**[Your Name]**
-Data Analyst | Power BI | [Add other skills, e.g. SQL, Excel, Python]
-
-- 💼 LinkedIn: [your-linkedin-url]
-- 📧 Email: [your-email]
-- 🌐 Portfolio: [your-portfolio-url]
 
 ---
 
